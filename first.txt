@@ -4,3 +4,4 @@ This is the second line in master
 We are addind this to branch test1
 test1
 adding other line
+This is additional line for remote master
